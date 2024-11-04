@@ -36,7 +36,7 @@
     <th>Team</th>
   </tr>
   <tr>
-    <td>Supriya Kandra</td>
+    <td>Supriya kandra</td>
     <td>3+ years</td>
     <td>DevOps</td>
   </tr>
